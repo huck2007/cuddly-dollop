@@ -175,4 +175,12 @@ LOCATION:Hillside Beach Club, Turkey
 UID:20261008-turkey@scott-calendar
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Cheltenham Races - Paddy Power Gold Cup (Scott & Tom with Steve and the boys)
+LOCATION:Cheltenham Racecourse
+UID:20261114-cheltenham@scott-calendar
+END:VEVENT
+
 END:VCALENDAR
