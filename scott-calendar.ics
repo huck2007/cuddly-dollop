@@ -85,6 +85,15 @@ UID:20260327-budapest@scott-calendar
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260406
+SUMMARY:Easter weekend at Ant & Jo's
+DESCRIPTION:Travel down Thu 2nd, return late afternoon Sun 5th
+LOCATION:Ockley, Surrey
+UID:20260402-easter@scott-calendar
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260411
 SUMMARY:San Sebastian - Jo, Tom & Sophie (4 nights)
