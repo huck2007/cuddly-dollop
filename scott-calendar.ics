@@ -85,6 +85,15 @@ UID:20260327-budapest@scott-calendar
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260411
+SUMMARY:San Sebastian - Jo, Tom & Sophie (4 nights)
+DESCRIPTION:Basque Country holiday. Flying Manchester with easyJet.
+LOCATION:San Sebastian, Spain
+UID:20260406-sansebastian@scott-calendar
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Family Walk - Kinder Scout & Kinder Downfall Circular
