@@ -7,6 +7,13 @@ X-WR-CALNAME:Scott - Key Dates
 X-WR-TIMEZONE:Europe/London
 
 BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260110T140000
+DTEND;TZID=Europe/London:20260110T180000
+SUMMARY:Visit old friend Kris Dunnico
+UID:20260110-krisdunnico@scott-calendar
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260112
 SUMMARY:Family Walk - Blakemere & Delamere Circular (10.5km)
@@ -16,10 +23,26 @@ UID:20260111-delamere@scott-calendar
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Loaf sofa showroom
+LOCATION:Altrincham
+UID:20260117-loaf@scott-calendar
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Europe/London:20260124T170000
 DTEND;TZID=Europe/London:20260124T210000
 SUMMARY:Burns Night dinner with Scott Family
 UID:20260124-burnsnight@scott-calendar
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20260129T193000
+DTEND;TZID=Europe/London:20260129T223000
+SUMMARY:Theatre - An Evening with the Two Mayors (with Eddie)
+LOCATION:Royal Shakespeare North Theatre
+UID:20260129-twomayors@scott-calendar
 END:VEVENT
 
 BEGIN:VEVENT
