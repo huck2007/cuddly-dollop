@@ -113,6 +113,14 @@ UID:20260306-paulsandham@scott-calendar
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Family Walk - Aysgarth Falls & Castle Bolton Circular
+LOCATION:Yorkshire Dales
+UID:20260308-aysgarth@scott-calendar
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260316
 SUMMARY:Mark & Oscar visiting from Maine (with Pete & Oliver)
